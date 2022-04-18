@@ -20,6 +20,7 @@ contract Switch{
     }
     return x;
     }
+    
 
 
 }
