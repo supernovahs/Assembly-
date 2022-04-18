@@ -1,0 +1,6 @@
+ContractTest:testExample() (gas: 142)
+operators:testExample() (gas: 120)
+reentrantTest:testExample() (gas: 76283)
+reentrantTest:testwithdraw() (gas: 61150)
+switchtest:testExample() (gas: 120)
+Whiletest:testExample() (gas: 120)
